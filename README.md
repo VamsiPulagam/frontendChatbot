@@ -8,3 +8,7 @@
 *  In login page we must enter our Name,mail id,address,our choice(mobile or laptop) which we have choosen before and comment (optional) .
 *  And after filling all the mandatory details click the place order.
 *  It is showing as your order is placed,If we want come back then click on your order is placed we can reach to starting page.
+
+
+
+A Small demo about this chatBot is : https://youtu.be/JrG2GgXBr5s
